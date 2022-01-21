@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Servicios</string>
+    <string name="tv_aviso">Hola! \n Voy a adivinar si eres macho o hembra \n Con solo tu nombre</string>
+    <string name="hint_nombre">Ingresa tu nombre</string>
+    <string name="button_aceptar">Aceptar</string>
+    <string name="tv_sexo">Yo determine que eres %s</string>
+</resources>
